@@ -2,7 +2,7 @@
 
 # Documentation URLs
 
-Software Development documentation URLs provided by GPT.
+Software Development documentation URLs provided by GPT. Useful as a browser bookmark tab.
 
 ## Core Languages
 
@@ -51,6 +51,95 @@ https://laravel.com/docs/
 
 https://learn.microsoft.com/en-us/aspnet/core/  
 
+## Front-End Frameworks and Libraries
+
+https://react.dev/  
+
+https://vuejs.org/guide/introduction.html  
+
+https://angular.dev/  
+
+https://svelte.dev/docs  
+
+https://nextjs.org/docs  
+
+https://nuxt.com/docs  
+
+https://remix.run/docs  
+
+https://solidjs.com/docs
+
+## CSS and UI
+
+https://tailwindcss.com/docs  
+
+https://getbootstrap.com/docs/  
+
+https://mui.com/material-ui/getting-started/overview/  
+
+https://ant.design/docs/react/introduce  
+
+https://bulma.io/documentation/  
+
+https://foundation.zurb.com/sites/docs/
+
+## Databases
+
+https://dev.mysql.com/doc/  
+
+https://www.postgresql.org/docs/  
+
+https://www.mongodb.com/docs/  
+
+https://redis.io/docs/  
+
+https://cassandra.apache.org/doc/latest/  
+
+https://www.sqlite.org/docs.html  
+
+https://mariadb.org/documentation/
+
+## Testing and QA
+
+https://jestjs.io/docs/getting-started  
+
+https://mochajs.org/  
+
+https://pytest.org/en/latest/  
+
+https://junit.org/junit5/docs/current/user-guide/  
+
+https://www.selenium.dev/documentation/  
+
+https://cypress.io/docs/
+
+Build Tools and Package Managers
+
+https://webpack.js.org/concepts/  
+
+https://rollupjs.org/introduction/  
+
+https://vitejs.dev/guide/  
+
+https://parceljs.org/docs/  
+
+https://babeljs.io/docs/en/  
+
+https://www.npmjs.com/docs  
+
+https://yarnpkg.com/getting-started  
+
+https://pnpm.io/motivation
+
+## Version Control and Collaboration
+
+https://git-scm.com/doc  
+
+https://docs.github.com/  
+
+https://docs.gitlab.com/  
+
+https://bitbucket.org/product/guides
 
 ## Containers & DevOps
 
@@ -85,3 +174,20 @@ https://developer.mozilla.org/
 https://devdocs.io/  
 
 https://github.com/dotnet/docs 
+
+## Other Useful Tools
+
+https://grpc.io/docs/  
+
+https://graphql.org/learn/  
+
+https://swagger.io/docs/  
+
+https://openapis.org/specification  
+
+https://socket.io/docs/v4/  
+
+https://kafka.apache.org/documentation/  
+
+https://spark.apache.org/docs/latest/
+
