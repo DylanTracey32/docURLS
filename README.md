@@ -2,7 +2,7 @@
 
 # Documentation URLs
 
-Software Development documentation URLs provided by GPT. Useful as a browser bookmark tab.
+Software development documentation URLs provided by GPT. Useful as a browser bookmark tab. I'd like to expand this repo to include URLs for other good learning resources or tools. Feel free to suggest more!
 
 ## Core Languages
 
